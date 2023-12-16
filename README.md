@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/My%20Portfolio%20Website-8A2BE2" alt="PortFolio-website"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=supranshu&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=supranshu&style=flat-square&color=blue" alt=""/>
 <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
