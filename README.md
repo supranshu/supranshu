@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/supranshu-singh-ba33b5240/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="supranshu.fly.dev">
-    <img src="https://img.shields.io/badge/My%20Portfolio%20Website-8A2BE2" alt="PortFolio-website"/>
-  </a>
+  
 </div>
 <div align="center">
   <img  src="https://komarev.com/ghpvc/?username=supranshu&style=flat-square&color=blue" alt=""/>
