@@ -41,3 +41,15 @@ I am a Full Stack Java Developer from India.<img align="center" src="https://med
 - <div align="center" >
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=supranshu&theme=tokyonight&border_radius=5.7" alt="GitHub Streak" /></a>
 </div>
+
+
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=supranshu&style=flat-square&color=blue" alt="Supranshu S"/>
+  <img src="https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg">
+</div>
+<div align="center">
+  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=supranshu&show_icons=true&theme=radical" height="150" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=supranshu&layout=compact&theme=radical" height="150" >
+</div>
+<br><br>
