@@ -46,7 +46,7 @@ I am a Full Stack Java Developer from India.<img align="center" src="https://med
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=supranshu&style=flat-square&color=blue" alt="Supranshu S"/>
-  <img src="https://wakatime.com/badge/user/4405aa71-4aca-4288-8d59-99aea5788c05.svg">
+  
 </div>
 <div align="center">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=supranshu&show_icons=true&theme=radical" height="150" />
